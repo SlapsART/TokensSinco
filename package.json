@@ -1,0 +1,13 @@
+{
+  "name": "tokensprovidertest",
+  "version": "1.0.0",
+  "main": "/tokens.json",
+  "description": "Descripción de tu librería",
+  "keywords": ["Tokens", "Desing-System"],
+  "author": "SlapsART",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlapsART/TokensSinco.git"
+  }
+}
