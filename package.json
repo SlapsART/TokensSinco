@@ -1,7 +1,7 @@
 {
   "name": "tokensprovidertest",
-  "version": "1.0.0",
-  "main": "/tokens.json",
+  "version": "1.0.1",
+  "main": "tokens.json",
   "description": "Descripción de tu librería",
   "keywords": ["Tokens", "Desing-System"],
   "author": "SlapsART",
